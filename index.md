@@ -1,6 +1,8 @@
 ---
-title: Welcome to my blog
+title: goes in the tab bar
 ---
+
+# HOME PAGE DO YOU GET IT
 
 - hey this is rohan's blog
 - yup you can read my blog here
@@ -8,4 +10,3 @@ title: Welcome to my blog
 
 this should be the homepage.
 
-# HOME PAGE DO YOU GET IT
